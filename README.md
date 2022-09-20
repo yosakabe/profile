@@ -57,8 +57,8 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 
 ## Articles & Proceedings
 
-- **(to be appeared) IIBMP 2022, Poster, Reviewed:** 刑部好弘, and 淺原彰規, "少量の実験データでも高確率で所望物性をもつ低分子化合物を発案するための深層生成モデルとその損失関数," 第11回生命医薬情報学連合大会, September 13th, 2022.
-- **(in publication) ACM SIGAI - IEA/AIE 2022, Oral, Reviewed:** Y. Osakabe, and A. Asahara, "Proposing Novel High-Performance Compounds by Nested VAEs Trained Independently on Different Datasets," Lecture Notes in Computer Science, Advances and Trends in Artificial Intelligence. Theory and Practices in Artificial Intelligence — IEA/AIE 2022, vol. 13343, 2022.
+- **IIBMP 2022, Poster, Reviewed:** 刑部好弘, and 淺原彰規, "少量の実験データでも高確率で所望物性をもつ低分子化合物を発案するための深層生成モデルとその損失関数," 第11回生命医薬情報学連合大会, September 13th, 2022.
+- **ACM SIGAI - IEA/AIE 2022, Oral, Reviewed:** Y. Osakabe, and A. Asahara, "Proposing Novel High-Performance Compounds by Nested VAEs Trained Independently on Different Datasets," Lecture Notes in Computer Science, Advances and Trends in Artificial Intelligence. Theory and Practices in Artificial Intelligence — IEA/AIE 2022, vol. 13343, pp. 714-722, 2022.
 - **DICOMO 2021, Oral, Reviewed:** 刑部好弘, and 淺原彰規, "MatVAE: 少量の実験データでも学習可能な実験候補化合物を提示するための入れ子型変分オートエンコーダ," マルチメディア, 分散協調とモバイルシンポジウム (DICOMO) 2021 論文集, 540-546, 2021.
 - **AAAI-MLPS 2021, Oral, Reviewed:** Y. Osakabe, and A. Asahara, "MatVAE: Independently Trained Nested Variational Autoencoder for Generating Chemical Structural Formula," AAAI Spring Symposium: MLPS, 2021.
 - **Journal, Reviewed:** Y. Osakabe, S. Sato, H. Akima, M. Kinjo, and M. Sakuraba, "Learning Rule for a Quantum Neural Network Inspired by Hebbian Learning," IEICE Trans. on Information and Systems, 104(2), 237-245, 2021.
