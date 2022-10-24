@@ -1,7 +1,7 @@
 # Executive Summary
 
 - Yoshihiro Osakabe, Ph.D.
-- Researcher at Hitachi, Ltd. Research and Development Group.
+- Senior Researcher at Hitachi, Ltd. Research and Development Group.
 
 # Contact Information (SNS Links)
 
@@ -27,8 +27,8 @@
 
 # Biography
 
-Yoshihiro Osakabe received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
-From April 2018, he is with Hitachi, Ltd. Research and Development Group, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for materials informatics and geospatial informatics. His current research interests include emergence of intelligence and non-von Neumann computing.
+**Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
+**From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 
 # Publications
@@ -44,6 +44,7 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 
 ## Invited Talks / Seminars
 
+- 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
 - 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
     - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
     - The presentation material is available online; [PDF](https://testbed.nict.go.jp/bunkakai/pdf/da-v_tf-11-02.pdf).
