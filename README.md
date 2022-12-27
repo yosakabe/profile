@@ -58,6 +58,8 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 
 ## Articles & Proceedings
 
+- **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022.
+- **IEEE BigData 2022, Poster, Reviewed:** Akinori Asahara, Yoshihiro Osakabe, Karin Tsuda, and Hidekazu Morita, "Interactive Support System for Idea Divergence-Convergence Iteration," Proc. of IEEE Big Data 2022, December 20th, 2022.
 - **IIBMP 2022, Poster, Reviewed:** 刑部好弘, and 淺原彰規, "少量の実験データでも高確率で所望物性をもつ低分子化合物を発案するための深層生成モデルとその損失関数," 第11回生命医薬情報学連合大会, September 13th, 2022.
 - **ACM SIGAI - IEA/AIE 2022, Oral, Reviewed:** Y. Osakabe, and A. Asahara, "Proposing Novel High-Performance Compounds by Nested VAEs Trained Independently on Different Datasets," Lecture Notes in Computer Science, Advances and Trends in Artificial Intelligence. Theory and Practices in Artificial Intelligence — IEA/AIE 2022, vol. 13343, pp. 714-722, 2022.
 - **DICOMO 2021, Oral, Reviewed:** 刑部好弘, and 淺原彰規, "MatVAE: 少量の実験データでも学習可能な実験候補化合物を提示するための入れ子型変分オートエンコーダ," マルチメディア, 分散協調とモバイルシンポジウム (DICOMO) 2021 論文集, 540-546, 2021.
@@ -84,7 +86,11 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 
 
 ## News Releases
-- [三井化学と日立が材料開発を高速化するMI技術の実用化に向けた実証試験を開始](https://www.hitachi.co.jp/New/cnews/month/2021/06/0628.html)
+- [(2022/12/16) 疑似量子の活用で従来のMIによる材料開発期間をさらに20%短縮できることを実証](https://www.hitachi.co.jp/New/cnews/month/2022/12/1216.html)
+    - [日経クロステック | 日立の疑似量子技術、MIを使った材料開発期間の20％短縮を試算](https://xtech.nikkei.com/atcl/nxt/news/18/14335/)
+    - [ZDNet Japan | 疑似量子の活用で材料開発期間を約20％削減--日立が有効性を実証](https://japan.zdnet.com/article/35197516/)
+    - [マイナビニュース | 日立、疑似量子コンピュータで材料の開発期間を20%短縮‐Lumadaへ展開](https://news.mynavi.jp/techplus/article/20221216-2539246/)
+- [(2021/6/28) 三井化学と日立が材料開発を高速化するMI技術の実用化に向けた実証試験を開始](https://www.hitachi.co.jp/New/cnews/month/2021/06/0628.html)
     - [English ver | Mitsui Chemicals and Hitachi Start Demonstration Test for Practical Application of MI Technology to Speed Up Materials Development](https://www.hitachi.com/New/cnews/month/2021/06/210628.html)
     - [三井化学株式会社からの発表 | 有機材料開発の実験回数を従来比約1/4に低減し、新材料開発のDXを実現](https://jp.mitsuichemicals.com/jp/release/2021/2021_0628_03.htm)
     - [日経新聞 | 日立と三井化学　AI使う材料開発で実証試験](https://www.nikkei.com/article/DGXZQOUC283S30Y1A620C2000000/)
