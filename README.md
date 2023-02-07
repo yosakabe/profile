@@ -32,14 +32,10 @@
 
 
 # Publications
-
-Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
-
 ## Awards
 
 1. **The Best Paper Prize**, IEEE Sendai Section Student Awards 2015:
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
-
 
 
 ## Invited Talks / Seminars
@@ -55,11 +51,11 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 - Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
 
 
-
 ## Articles & Proceedings
 
+- **arXiv:2302.02555 :** Yoshihiro Osakabe, and Akinori Asahara, "Proposing Novel Extrapolative Compounds by Nested Variational Autoencoders," arXiv:2302.02555, 6th Feb, 2023. **[【LINK】](https://arxiv.org/abs/2302.02555)**
 - **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/abstract/document/10020236)**
-- **IEEE BigData 2022, Poster, Reviewed:** Akinori Asahara, Yoshihiro Osakabe, Karin Tsuda, and Hidekazu Morita, "Interactive Support System for Idea Divergence-Convergence Iteration," Proc. of IEEE Big Data 2022, December 20th, 2022.**[【LINK】](https://ieeexplore.ieee.org/document/10020899)**
+- **IEEE BigData 2022, Poster, Reviewed:** Akinori Asahara, Yoshihiro Osakabe, Karin Tsuda, and Hidekazu Morita, "Interactive Support System for Idea Divergence-Convergence Iteration," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/document/10020899)**
 - **IIBMP 2022, Poster, Reviewed:** 刑部好弘, and 淺原彰規, "少量の実験データでも高確率で所望物性をもつ低分子化合物を発案するための深層生成モデルとその損失関数," 第11回生命医薬情報学連合大会, September 13th, 2022.
 - **ACM SIGAI - IEA/AIE 2022, Oral, Reviewed:** Y. Osakabe, and A. Asahara, "Proposing Novel High-Performance Compounds by Nested VAEs Trained Independently on Different Datasets," Lecture Notes in Computer Science, Advances and Trends in Artificial Intelligence. Theory and Practices in Artificial Intelligence — IEA/AIE 2022, vol. 13343, pp. 714-722, 2022.**[【LINK】](https://link.springer.com/chapter/10.1007/978-3-031-08530-7_60)**
 - **DICOMO 2021, Oral, Reviewed:** 刑部好弘, and 淺原彰規, "MatVAE: 少量の実験データでも学習可能な実験候補化合物を提示するための入れ子型変分オートエンコーダ," マルチメディア, 分散協調とモバイルシンポジウム (DICOMO) 2021 論文集, 540-546, 2021.**[【LINK】](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=212970&item_no=1)**
@@ -84,6 +80,7 @@ Note: Please refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Y
 - **Oral:** Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", Proc. 2015 Tohoku-Section Joint Convention of Institutes of Electrical and Information Engineers Japan (平成27年度電気関係学会東北支部連合大会), 1A10, 27-28 August, 2015. **[【LINK】](https://www.jstage.jst.go.jp/article/tsjc/2015/0/2015_10/_article/-char/ja/)**
 - **Poster, Reviewed:** Y. Osakabe, T. Onomi, H. Akima, M. Sakuraba, S. Sato, "Experimental Analysis of Macroscopic Quantum Tunneling Rate in Series Array of Nb/AlOx/Nb Josephson Junctions", Ext. Abst. 15th International Superconductive Electronics Conference, DP-P11, 6-9 July, 2015. (July 6th)
 
+Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
 ## News Releases
 - [(2022/12/16) 疑似量子の活用で従来のMIによる材料開発期間をさらに20%短縮できることを実証](https://www.hitachi.co.jp/New/cnews/month/2022/12/1216.html)
