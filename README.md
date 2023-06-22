@@ -31,6 +31,12 @@
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 
+# Concurrent Positions
+
+- Since May, 2023: Associate Editor, IEICE - 電子情報通信学会 和文D編集委員会　編集委員
+- Since Nov, 2017: Director, NPO Suuri no Tsubasa - NPO法人 数理の翼　理事
+
+
 # Publications
 ## Awards
 
