@@ -90,13 +90,15 @@
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
 ## News Releases
+- [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
+    - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
 - [(2022/12/16) 疑似量子の活用で従来のMIによる材料開発期間をさらに20%短縮できることを実証](https://www.hitachi.co.jp/New/cnews/month/2022/12/1216.html)
     - [日経クロステック | 日立の疑似量子技術、MIを使った材料開発期間の20％短縮を試算](https://xtech.nikkei.com/atcl/nxt/news/18/14335/)
     - [ZDNet Japan | 疑似量子の活用で材料開発期間を約20％削減--日立が有効性を実証](https://japan.zdnet.com/article/35197516/)
     - [マイナビニュース | 日立、疑似量子コンピュータで材料の開発期間を20%短縮‐Lumadaへ展開](https://news.mynavi.jp/techplus/article/20221216-2539246/)
 - [(2021/6/28) 三井化学と日立が材料開発を高速化するMI技術の実用化に向けた実証試験を開始](https://www.hitachi.co.jp/New/cnews/month/2021/06/0628.html)
     - [English ver | Mitsui Chemicals and Hitachi Start Demonstration Test for Practical Application of MI Technology to Speed Up Materials Development](https://www.hitachi.com/New/cnews/month/2021/06/210628.html)
-    - [三井化学株式会社からの発表 | 有機材料開発の実験回数を従来比約1/4に低減し、新材料開発のDXを実現](https://jp.mitsuichemicals.com/jp/release/2021/2021_0628_03.htm)
+    - [三井化学株式会社からの発表 (共同発表) | 有機材料開発の実験回数を従来比約1/4に低減し、新材料開発のDXを実現](https://jp.mitsuichemicals.com/jp/release/2021/2021_0628_03.htm)
     - [日経新聞 | 日立と三井化学　AI使う材料開発で実証試験](https://www.nikkei.com/article/DGXZQOUC283S30Y1A620C2000000/)
     - [日経クロステック | 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
     - [MONOist | 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
