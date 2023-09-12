@@ -92,6 +92,10 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
 ## News Releases
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
+    - [日経新聞 | 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
+    - [日刊工業新聞(電子版) | 日立と東大、バイオアダプティブ材料開発にMI向けAI活用](https://www.nikkan.co.jp/articles/view/00685546)
+    - [IoT News | 東京大学と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発ヘ](https://iotnews.jp/manufacturing/233470/)
+    - [BIGLOBEニュース | 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://news.biglobe.ne.jp/economy/0911/prt_230911_3977841932.html)
 - [(2022/12/16) 疑似量子の活用で従来のMIによる材料開発期間をさらに20%短縮できることを実証](https://www.hitachi.co.jp/New/cnews/month/2022/12/1216.html)
     - [日経クロステック | 日立の疑似量子技術、MIを使った材料開発期間の20％短縮を試算](https://xtech.nikkei.com/atcl/nxt/news/18/14335/)
     - [ZDNet Japan | 疑似量子の活用で材料開発期間を約20％削減--日立が有効性を実証](https://japan.zdnet.com/article/35197516/)
