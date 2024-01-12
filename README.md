@@ -3,7 +3,7 @@
 - Yoshihiro Osakabe, Ph.D.
 - Senior Researcher at Hitachi, Ltd. Research and Development Group.
 
-# Contact Information (SNS Links)
+# Contact Information (SNS Links) | 連絡先・SNSなど
 
 - In English
   1. [LinkedIn (EN)](https://www.linkedin.com/in/yshroskb/): **Please contact me via LinkedIn.**
@@ -15,7 +15,7 @@
   2. [Qiita (JP)](https://qiita.com/yosakabe): Japanese stackoverflow-like community
   3. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com): Private tech blog
 
-# Fields of Expertise
+# Fields of Expertise | 専門分野
 - Artificial Intelligence
   - Materials Informatics / Bioinformatics
     - Deep Generative Model for Automatic Chemical Design
@@ -27,20 +27,20 @@
   - Quantum Machine Learning & Quantum Deep Learning
   - Superconducting Qubit Architectures
 
-# Biography
+# Biography | 来歴
 
 **Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 
-# Concurrent External Positions
+# Concurrent External Positions | 社外での委員・役員等
 
 - Since May, 2023: Associate Editor, IEICE - 電子情報通信学会 和文D編集委員会　編集委員
 - Since Nov, 2023: Board Chairman, NPO Suuri no Tsubasa - NPO法人 数理の翼 理事長
 - Since Nov, 2017: Director, NPO Suuri no Tsubasa - NPO法人 数理の翼　理事
 
 # Publications
-## Awards
+## Awards | 受賞歴
 
 1. **The Best Paper Prize**, IEEE Sendai Section Student Awards 2015:
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
