@@ -46,7 +46,7 @@
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
 
 
-## Invited Talks / Seminars
+## Invited Talks / Seminars / Webinars | 招待講演・セミナー
 
 - 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
 - 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
@@ -62,7 +62,7 @@
 - Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
 
 
-## Articles & Proceedings
+## Academic Articles & Proceedings | 学術論文誌ならびにプロシーディングス
 
 - **arXiv:2302.02555 :** Yoshihiro Osakabe, and Akinori Asahara, "Proposing Novel Extrapolative Compounds by Nested Variational Autoencoders," arXiv:2302.02555, 6th Feb, 2023. **[【LINK】](https://arxiv.org/abs/2302.02555)**
 - **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/abstract/document/10020236)**
@@ -94,8 +94,7 @@
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
-## News Releases and Interviews
-- [(2023/10/31) 日経クロステック | 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
+## News Releases and Related Web Articles | ニュースリリースと関連報道記事
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
     - [日経新聞 | 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
@@ -113,7 +112,8 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
     - [日経クロステック | 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
     - [MONOist | 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
-## Others
+## Web Articles and Others | その他、ウェブ記事など
+- [(2023/10/31) 日経クロステック | 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
 - [オンライン開催！日立製作所のトップAI研究者と学ぶコンペティション-地下道歩行者量予測- メンターインタビュー 刑部 好弘さん](https://journal.peakers.jp/1511122254/)
     - [オンライン開催！　日立製作所のトップAI研究者と学ぶコンペティション -地下道歩行者量予測-](https://peakers.jp/projects/69)
 - [AIやシミュレーション技術を活用したマテリアルズ・インフォマティクス（MI）について](https://qiita.com/KH_MOON/items/7cdd5c1501d60e125f5e)
