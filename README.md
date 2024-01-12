@@ -17,8 +17,10 @@
 
 # Fields of Expertise
 - Artificial Intelligence
-  - Materials Informatics
+  - Materials Informatics / Bioinformatics
     - Deep Generative Model for Automatic Chemical Design
+    - Deep Generative Model for Protein Design (Protein Language Models)
+    - AI for Laboratory Automation
   - GeoAI (AI for Geospatial Information)
 - Quantum Computing
   - Quantum Neural Networks
