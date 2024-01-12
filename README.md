@@ -49,7 +49,7 @@
 ## Invited Talks / Seminars
 
 - 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
-- 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023.
+- 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
 - 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
 - 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
     - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
