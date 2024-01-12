@@ -54,6 +54,7 @@
 - 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
     - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
     - The presentation material is available online; [PDF](https://testbed.nict.go.jp/bunkakai/pdf/da-v_tf-11-02.pdf).
+- 刑部好弘, "マテリアルズ・インフォマティクス - 材料探索とAI," 人工知能学会全国大会(第36回) 株式会社日立製作所 ランチョンセミナー, June 15th, 2022. **[【LINK】]([https://laboratoryautomation.connpass.com/](https://www.ai-gakkai.or.jp/jsai2022/wp-content/uploads/sites/17/2022/05/AC36038_LUNCHEON_SEMINAR_PDF_rev2.pdf))**
 - 刑部好弘, "科学者のためのAI," 東北大学大学院卓越リーダーセミナー I, April 26th, 2022.
 - 刑部好弘, and 淺原彰規, " 高度な動線分析の実現に向けて - 分析事例紹介と分析区画動的決定法の検討," 第28回地理情報システム学会研究発表大会, 2019.
 - Y. Osakabe, "Introduction to GeoAI," Special Summer Seminar at The University of Information Technology (Myanmar), June 18th, 2019.
