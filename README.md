@@ -31,11 +31,11 @@
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
 
-# Concurrent Positions
+# Concurrent External Positions
 
 - Since May, 2023: Associate Editor, IEICE - 電子情報通信学会 和文D編集委員会　編集委員
+- Since Nov, 2023: Board Chairman, NPO Suuri no Tsubasa - NPO法人 数理の翼 理事長
 - Since Nov, 2017: Director, NPO Suuri no Tsubasa - NPO法人 数理の翼　理事
-
 
 # Publications
 ## Awards
@@ -46,6 +46,8 @@
 
 ## Invited Talks / Seminars
 
+- 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
+- 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023.
 - 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
 - 刑部好弘, and 淺原彰規, "MF-JSON に関連した日立のケーススタディと周辺技術のご紹介," NICT スマートIoT推進フォーラム 技術戦略検討部会 テストベッド分科会 － 第11回データ分析・可視化タスクフォース, July 12th, 2022.
     - The overview of the task force meeting is [here (https://testbed.nict.go.jp/bunkakai/da-v.html)](https://testbed.nict.go.jp/bunkakai/da-v.html).
@@ -89,7 +91,8 @@
 
 Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe) for the abstracts.
 
-## News Releases
+## News Releases and Interviews
+- [(2023/10/31) 日経クロステック | 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
 - [(2023/9/11) 東京大学と日立がバイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.hitachi.co.jp/New/cnews/month/2023/09/0911.html)
     - [東京大学大学院工学系研究科からの発表 (共同発表)](https://www.t.u-tokyo.ac.jp/press/pr2023-09-11-001)
     - [日経新聞 | 東大と日立、バイオ・高分子ビッグデータ駆動による完全循環型バイオアダプティブ材料の開発に向けた協創を開始](https://www.nikkei.com/article/DGXZRSP661841_R10C23A9000000/)
