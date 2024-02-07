@@ -61,6 +61,11 @@
 - Y. Osakabe, "Neuro-inspired Iterative Learning Rules for Quantum Neural Networks," The International Conference on Soft Computing and Machine Learning (SCML), 2019.
 - Y. Osakabe, "Hebbian and anti-Hebbian Learning of Qubit Networks for Quantum Associative Memory," The Collaborative Conference on Quantum Machine Learning (CCQML), OAHOST, May 2018.
 
+## Thesis and Dissertation | 学位論文
+
+- **Thesis (修士学位論文):** Yoshihiro Osakabe, "ジョセフソン接合列の巨視的量子トンネリング特性とその多接合効果に関する研究 (Multi-Junction Effect on Macroscopic Quantum Tunneling in Josephson Junctions in Series)," Tohoku University (JAPAN), 2015-03-25.
+- **Dissertation (博士学位論文):** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," Tohoku University (JAPAN), 2018-03-27. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/127805)**
+  - **Departmental Bulletin Paper | 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30--33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
 
 ## Academic Articles & Proceedings | 学術論文誌ならびにプロシーディングス
 
