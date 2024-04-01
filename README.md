@@ -1,16 +1,20 @@
 # Executive Summary
 
-- Yoshihiro Osakabe, Ph.D.
-- Senior Researcher at Hitachi, Ltd. Research and Development Group.
+- In Japanese:
+  - 刑部好弘, 博士(工学)
+  - 株式会社日立製作所 研究開発グループ 主任研究員
+- In English:
+  - Yoshihiro Osakabe, Ph.D.
+  - Chief Researcher at Hitachi, Ltd. Research and Development Group.
 
 # Contact Information (SNS Links) | 連絡先・SNSなど
 
-- In English
+- In English:
   1. [LinkedIn (EN)](https://www.linkedin.com/in/yshroskb/): **Please contact me via LinkedIn.**
   2. [publons (EN)](https://publons.com/researcher/4634254/yoshihiro-osakabe/): The list of my publications and the verified reviews are available. 
   3. [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe): My publications are also listed, and few of the PDFs are available.
   4. [GitHub (EN)](https://github.com/yosakabe/profile): this page.
-- In Japanese
+- In Japanese:
   1. [Twitter (JP)](https://twitter.com/osaKB): Tweet in Japanese
   2. [Qiita (JP)](https://qiita.com/yosakabe): Japanese stackoverflow-like community
   3. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com): Private tech blog
