@@ -72,7 +72,8 @@
   - **Departmental Bulletin Paper | 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30--33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
 
 ## Academic Articles & Proceedings | 学術論文誌ならびにプロシーディングス
-
+- **arXiv:2303.09772 :** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting," arXiv:2303.09772, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.09772)**
+- **arXiv:2303.10179 :** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," arXiv:2303.10179, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.10179)**
 - **arXiv:2302.02555 :** Yoshihiro Osakabe, and Akinori Asahara, "Proposing Novel Extrapolative Compounds by Nested Variational Autoencoders," arXiv:2302.02555, 6th Feb, 2023. **[【LINK】](https://arxiv.org/abs/2302.02555)**
 - **IEEE BigData 2022, Oral, Reviewed:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO-inspired Molecular Fingerprint for Chemical Property Prediction," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/abstract/document/10020236)**
 - **IEEE BigData 2022, Poster, Reviewed:** Akinori Asahara, Yoshihiro Osakabe, Karin Tsuda, and Hidekazu Morita, "Interactive Support System for Idea Divergence-Convergence Iteration," Proc. of IEEE Big Data 2022, December 20th, 2022. **[【LINK】](https://ieeexplore.ieee.org/document/10020899)**
