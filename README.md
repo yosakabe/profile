@@ -5,7 +5,7 @@
   - 株式会社日立製作所 研究開発グループ 主任研究員
 - In English:
   - Yoshihiro Osakabe, Ph.D.
-  - Chief Researcher at Hitachi, Ltd. Research and Development Group.
+  - Chief Researcher at Research and Development Group, Hitachi, Ltd.
 
 # Contact Information (SNS Links) | 連絡先・SNSなど
 
@@ -82,6 +82,8 @@
   - **Departmental Bulletin Paper | 紀要論文:** Yoshihiro Osakabe, "脳型計算を模倣した断熱的量子計算アルゴリズムとそのハードウェア構成に関する研究 (Neuro-inspired Quantum Algorithms via Adiabatic Hamiltonian Evolution and its Hardware Design)," 東北大学電通談話会記録, No. 87, Vol. 1, pp. 30--33, 東北大学電気通信研究所 (Research Institute of Electrical Communication, Tohoku University, JAPAN), 2018-09-25. **[【LINK】](https://tohoku.repo.nii.ac.jp/records/126020)**
 
 ## Academic Articles & Proceedings | 学術論文誌ならびにプロシーディングス
+- **IIS 2024, Poster, Reviewed:** Yoshihiro Osakabe, Akinori Asahara, and Hidekazu Morita, "Exploring Fusion Energy Applications of Database Technology: Large Spatio-temporal Data Management for Rapid Analytics of Scientific Simulations," the 13th ITER International School, P-119, 2024.
+- **IIS 2024, Poster, Reviewed:** Yoshihiro Osakabe, Koichiro Yawata, Akinori Asahara, Kiichiro Toyoizumi, and Takuya Okuyama, "Exploring Fusion Energy Applications of Materials Informatics: QUBO-Enhanced Regression Trees for Rapid Screening of Candidate Materials," the 13th ITER International School, P-120, 2024.
 - **JSAI 2024, Poster, Reviewed:** Ryoichi Takase, Hiroya Ijima, Yoshihiro Osakabe, Akinori Asahara, and Hikaru Koyama, "タンパク質言語モデルの強化学習における報酬関数の評価 (Evaluation of Reward Functions in Reinforcement Learning of Protein Language Models)," 第38回 人工知能学会全国大会論文集 (The 38th Annual Conference of the Japanese Society for Artificial Intelligence), 3Xin2-93, 2024. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3Xin293/_article/-char/ja/)**
 - **JSAI 2024, Poster, Reviewed:** Hiroya Ijima, Yoshihiro Osakabe, Ryoichi Takase, Hikaru Koyama, and Akinori Asahara, "Variational Autoencoderを用いた変異タンパク質アミノ酸配列の生成 (Generation of Mutant Protein Amino Acid Sequence with Variational Autoencoder)," 第38回 人工知能学会全国大会論文集 (The 38th Annual Conference of the Japanese Society for Artificial Intelligence), 4Xin2-76, 2024. **[【LINK】](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin276/_article/-char/ja/)**
 - **arXiv:2303.09772:** Koichiro Yawata, Yoshihiro Osakabe, Takuya Okuyama, and Akinori Asahara, "QUBO Decision Tree: Annealing Machine Extends Decision Tree Splitting," arXiv:2303.09772, 17th Mar, 2023. **[【LINK】](https://arxiv.org/abs/2303.09772)**
