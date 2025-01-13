@@ -36,15 +36,15 @@
 **Yoshihiro Osakabe** received the B.E., M.E. and Ph.D. degrees from Tohoku University, Sendai, Japan, in 2013, 2015, and 2018, respectively.
 **From April 2018, he is a Senior Researcher at Hitachi, Ltd. Research and Development Group**, Tokyo, Japan, where he works on artificial intelligence and knowledge discovery, especially for **materials informatics and geospatial informatics**. His current research interests also include the emergence of intelligence and non-von Neumann computing.
 
-- 2009年　東京学芸大学附属高校 卒業
-- 2013年　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
-- 2015年　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
-- 2018年　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
-- 2018年　(株)日立製作所 研究開発グループ 入所
-  - 2018年 企画員 / Associate Researcher
-  - 2019年 研究員 / Researcher
-  - 2022年 研究員 / Senior Researcher
-  - 2024年 主任研究員 / Chief Researcher
+- 2009年3月　東京学芸大学附属高校 卒業
+- 2013年3月　東北大学 工学部 情報知能システム総合学科　コンピュータサイエンスコース　卒業
+- 2015年3月　東北大学大学院 工学研究科 電子工学専攻 修士課程修了
+- 2018年3月　東北大学大学院 工学研究科 電子工学専攻 博士課程修了
+- 2018年4月　(株)日立製作所 研究開発グループ 入社
+  - 2018年 総合職企画員 / Associate Researcher（知能情報研究部）
+  - 2019年 研究員 / Researcher（知能情報研究部）
+  - 2022年 研究員 / Senior Researcher（データサイエンスラボラトリ）
+  - 2024年 主任研究員 / Chief Researcher（データサイエンスラボラトリ）
 
 
 # Concurrent External Positions | 社外での委員・役員等
