@@ -56,6 +56,8 @@
 # Publications
 ## Awards | 受賞歴
 
+1. **Won 1st prize**, MAST Plasma Equilibrium challenge - ITER International School Data Science Challenge 2024:
+    - [Official Report | On magnetic fusion diagnostics and data science (iter.org)](https://www.iter.org/node/20687/magnetic-fusion-diagnostics-and-data-science)
 1. **The Best Paper Prize**, IEEE Sendai Section Student Awards 2015:
     - Y. Osakabe, S. Sato, T. Onomi, H. Akima, M. Sakuraba, "Superconductivity Coherence in Series Array of Nb/AlOx/Nb Josephson Junctions", November 2015.
 
