@@ -139,6 +139,9 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
     - [MONOist | 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
 ## Web Articles and Others | その他、ウェブ記事など
+- [日立製作所 社員インタビュー 刑部好弘](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/interviewOsakabe.html)
+  - [日立製作所 | 博士採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/doctor/index.html)
+  - [日立製作所 | 新卒採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/)
 - [(2023/10/31) 日経クロステック | 専門組織設置で生成AI活用に動く日立・三菱・NEC、商品化にらみまずは社内向けで](https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00138/00004/)
 - [オンライン開催！日立製作所のトップAI研究者と学ぶコンペティション-地下道歩行者量予測- メンターインタビュー 刑部 好弘さん](https://journal.peakers.jp/1511122254/)
     - [オンライン開催！　日立製作所のトップAI研究者と学ぶコンペティション -地下道歩行者量予測-](https://peakers.jp/projects/69)
