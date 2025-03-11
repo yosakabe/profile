@@ -65,6 +65,7 @@
 ## Invited Talks / Seminars / Webinars | 招待講演・セミナー
 
 - 刑部好弘, "科学研究を加速する機械学習・深層学習技術," 第56回技術士CPD講座 - AIデータサイエンス/医療統計学, May 17th, 2025. **[【LINK1】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/010783.html)** | **[【LINK2】](https://www.engineer.or.jp/c_shibu/ibaraki/topics/010/attached/attach_10783_2.pdf)**
+- 刑部好弘, "分子構造生成モデル：統計的言語普遍と外挿領域からの生成," 統計数学☓情報☓物質セミナー①〜数学とマテリアルズDX〜｜2024a011, Jan 27th, 2025. **[【Website】](https://joint.imi.kyushu-u.ac.jp/post-14920/)** | **[【YouTube】](https://youtu.be/iB9Z1ZnIf4k?si=uX_iJ-O06d-PfmQ1)**
 - 刑部好弘, "サイエンスと人工知能," 東北大学大学院卓越リーダーセミナー I, July 4th, 2023.
 - 刑部好弘, "マテリアルズ・インフォマティクス - 生成系AIによる実験候補材料探索の効率化," Laboratory Automation勉強会, May 20th, 2023. **[【LINK】](https://laboratoryautomation.connpass.com/)**
 - 刑部好弘, "現実世界の課題解決に挑む、日立の研究開発," 東北大学研究開発実践論, October 31st, 2022.
