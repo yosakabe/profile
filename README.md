@@ -45,6 +45,7 @@
   - 2019年 研究員 / Researcher（知能情報研究部）
   - 2022年 研究員 / Senior Researcher（データサイエンスラボラトリ）
   - 2024年 主任研究員 / Chief Researcher（データサイエンスラボラトリ）
+  - 2025年 主任研究員 / Chief Researcher（社会インテリジェンス研究部）
 
 
 # Concurrent External Positions | 社外での委員・役員等
