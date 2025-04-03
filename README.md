@@ -141,7 +141,10 @@ Note: Please also refer to [ResearchGate (EN)](https://www.researchgate.net/prof
     - [日経クロステック | 三井化学と日立が新規材料の化合物を発見するAI、実験回数を4分の1に削減](https://xtech.nikkei.com/atcl/nxt/news/18/10698/)
     - [MONOist | 日立が実験回数4分の1のマテリアルズインフォマティクス技術、三井化学と実証へ](https://monoist.itmedia.co.jp/mn/articles/2106/29/news052.html)
 
-## Web Articles and Others | その他、ウェブ記事など
+## Interviews, Web Articles and Others | インタビュー記事やウェブ記事など、その他
+- [企業で活躍する博士人財ロールモデル事例集 | 日立製作所 刑部好弘](https://www.meti.go.jp/policy/innovation_corp/roll_model_hakase.pdf)
+  - [掲載元 | 経済産業省 - 博士人材活躍促進に向けて](https://www.meti.go.jp/policy/innovation_corp/hakasezinnzai_katuyaku.html)
+  - [掲載元 | 文部科学省 - 博士人材活躍プラン～博士をとろう～](https://www.mext.go.jp/a_menu/jinzai/1278386_00002.htm)
 - [日立製作所 社員インタビュー 刑部好弘](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/interviewOsakabe.html)
   - [日立製作所 | 博士採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/doctor/index.html)
   - [日立製作所 | 新卒採用・インターン：社員インタビュー](https://www.hitachi.co.jp/recruit/newgraduate/people/interview/)
