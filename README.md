@@ -11,16 +11,19 @@
 
 - In English:
   1. [LinkedIn (EN)](https://www.linkedin.com/in/yshroskb/): **Please contact me via LinkedIn.**
-  2. [publons (EN)](https://publons.com/researcher/4634254/yoshihiro-osakabe/): The list of my publications and the verified reviews are available. 
-  3. [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe): My publications are also listed, and few of the PDFs are available.
-  4. [GitHub (EN)](https://github.com/yosakabe/profile): this page.
+  2. [ORCID](https://orcid.org/0000-0001-7217-6097)
+  3. [publons (EN)](https://publons.com/researcher/4634254/yoshihiro-osakabe/): The list of my publications and the verified reviews are available. 
+  4. [ResearchGate (EN)](https://www.researchgate.net/profile/Yoshihiro-Osakabe): My publications are also listed, and few of the PDFs are available.
+  5. [GitHub (EN)](https://github.com/yosakabe/profile): this page.
 - In Japanese:
-  1. [Twitter (JP)](https://twitter.com/osaKB): Tweet in Japanese
-  2. [Qiita (JP)](https://qiita.com/yosakabe): Japanese stackoverflow-like community
-  3. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com): Private tech blog
+  1. [Researchmap (JP)](https://researchmap.jp/yoshihiro_osakabe)
+  2. [X - Twitter (JP)](https://twitter.com/osaKB)
+  3. [Qiita (JP)](https://qiita.com/yosakabe)
+  4. [Hatena Blog (JP)](https://coffeebreakscript.hatenablog.com)
 
 # Fields of Expertise | 専門分野
 - Artificial Intelligence
+  - AI4Science / Scientific AI
   - Materials Informatics / Bioinformatics
     - Deep Generative Model for Automatic Chemical Design
     - Deep Generative Model for Protein Design (Protein Language Models)
