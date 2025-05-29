@@ -9,6 +9,7 @@
 
 # Contact Information (SNS Links) | 連絡先・SNSなど
 
+- **Email: yoshihiro.osakabe.fj \[at\] hitachi.com**
 - In English:
   1. [LinkedIn (EN)](https://www.linkedin.com/in/yshroskb/): **Please contact me via LinkedIn.**
   2. [ORCID](https://orcid.org/0000-0001-7217-6097)
